@@ -67,3 +67,5 @@ or with Yarn:
 ### Deployment
 
 To deploy the backend, use platforms like Vercel, Heroku, or any other Node.js hosting service.
+
+1. Ensure the .env file is set up correctly in your production environment.
