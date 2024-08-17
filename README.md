@@ -65,3 +65,5 @@ or with Yarn:
 - GET /products/search: Search for products by keyword.
 
 ### Deployment
+
+To deploy the backend, use platforms like Vercel, Heroku, or any other Node.js hosting service.
