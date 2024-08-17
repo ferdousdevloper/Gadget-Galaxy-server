@@ -63,3 +63,5 @@ or with Yarn:
 - GET /products/
 : Retrieve a single product by ID.
 - GET /products/search: Search for products by keyword.
+
+### Deployment
