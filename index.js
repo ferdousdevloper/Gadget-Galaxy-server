@@ -7,7 +7,11 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 const corsOptions = {
-    origin: "http://localhost:5173",
+    origin: [
+      "http://localhost:5173",
+      "https://gadget-galaxybd.netlify.app",
+      "https://gadget-galaxy-client.vercel.app"
+    ]
 };
 app.use(cors(corsOptions));
 app.use(express.json());
