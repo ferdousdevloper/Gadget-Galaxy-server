@@ -37,4 +37,29 @@ This is the backend repository for the Gadget Galaxy website. The backend is bui
 or if you use Yarn:
   ```bash
     yarn install
+```
+### Running the Project Locally
 
+1. Set up your MongoDB database and obtain the connection URI.
+2. Create a .env file in the root directory and add the following environment variables:
+   
+   ```
+   PORT=5000
+   MONGODB_URI=your_mongodb_connection_string
+
+3. Start the development server:
+
+         npm start
+
+or with Yarn:
+                  
+         yarn start
+
+4. The API will be available at http://localhost:5000.
+
+### API Endpoints
+
+- GET /products: Retrieve all products with pagination, filtering, and sorting.
+- GET /products/
+: Retrieve a single product by ID.
+- GET /products/search: Search for products by keyword.
