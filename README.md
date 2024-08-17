@@ -76,3 +76,6 @@ To deploy the backend, use platforms like Vercel, Heroku, or any other Node.js h
 - Node.js
 - Express.js
 - MongoDB
+
+### Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
