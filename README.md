@@ -70,3 +70,5 @@ To deploy the backend, use platforms like Vercel, Heroku, or any other Node.js h
 
 1. Ensure the .env file is set up correctly in your production environment.
 2. Deploy the application using your chosen platform's instructions.
+
+### Technology Stack
