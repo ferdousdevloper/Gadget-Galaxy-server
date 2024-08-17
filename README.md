@@ -72,3 +72,5 @@ To deploy the backend, use platforms like Vercel, Heroku, or any other Node.js h
 2. Deploy the application using your chosen platform's instructions.
 
 ### Technology Stack
+
+- Node.js
